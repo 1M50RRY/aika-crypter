@@ -1,2 +1,4 @@
 # Aika-Crypter
-Polymorph file protector
+- Polymorph .net / native crypter
+- Uses ConfuserEx for obfuscation
+- RunPE method implementation
